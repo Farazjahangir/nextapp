@@ -1,6 +1,11 @@
+import { Button } from '@nextui-org/react';
 const Home = () => {
   return (
-    <p>Home</p>
+    <>
+      <p>Home</p>
+      <Button>Click me</Button>;
+
+    </>
   )
 }
 
